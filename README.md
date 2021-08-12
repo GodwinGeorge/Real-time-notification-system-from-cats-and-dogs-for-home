@@ -7,4 +7,4 @@ We have to install the library/packages - openCV(cv2), numpy, requests, io, json
 Don't forget to use YOLO V3 configuration(yolov3.cfg), YOLO V3 Weights file(yolov3.weights), and Coco dataset(coco.names)
 
 
-You're All Set \('~')/
+You're All Set! :-)
