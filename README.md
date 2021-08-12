@@ -5,4 +5,6 @@ People love to have a dog, cat as their pet. At the same time, If there is a tod
 Language using - python
 We have to install the library/packages - openCV(cv2), numpy, requests, io, json, pyttsx3, time. (remember pyttsx3 works only in windows if you're in linux install libespeak.)
 Don't forget to use YOLO V3 configuration(yolov3.cfg), YOLO V3 Weights file(yolov3.weights), and Coco dataset(coco.names)
+
+
 You're All Set \('~')/
